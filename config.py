@@ -1,6 +1,6 @@
 # config.py
 
-NESSUS_URL = "https://localhost:11127"
+NESSUS_URL = "https://localhost:8834"
 
 REPORT_DIR = "reports"
 
@@ -8,5 +8,5 @@ REPORT_DIR = "reports"
 PDF_TEMPLATE = "Detailed Vulnerabilities by Host"
 
 # Telegram
-TELEGRAM_BOT_TOKEN = "8713313408:AAF_XHJK8a-dJlOylME7eGVgEKNWrX8Cedc"
-TELEGRAM_CHAT_ID = "6760753540"
+TELEGRAM_BOT_TOKEN = "87********8:AAF_******-**************"
+TELEGRAM_CHAT_ID = "BOT_chat_box_id"
