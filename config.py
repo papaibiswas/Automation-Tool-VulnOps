@@ -8,5 +8,5 @@ REPORT_DIR = "reports"
 PDF_TEMPLATE = "Detailed Vulnerabilities by Host"
 
 # Telegram
-TELEGRAM_BOT_TOKEN = "87********8:AAF_******-**************"
+TELEGRAM_BOT_TOKEN = " "
 TELEGRAM_CHAT_ID = "BOT_chat_box_id"
